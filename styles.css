@@ -357,4 +357,5 @@ div ul>li{
     right: 120px;
     height: 50px;
     border-radius: 50px;
+    box-shadow: 4px 15px 35px 0px #00000040;
 }
